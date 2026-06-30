@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jenseits-der-grenze/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Jenseits der Grenze](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jenseits-der-grenze/) |
+| **Get License** | [Get a Licensing Quote for Jenseits der Grenze](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jenseits-der-grenze/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ab9a41b4f1d751b7310d8c246101eb8a0b5194941c5713b937fd6f247b808df8` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
